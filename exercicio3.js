@@ -7,3 +7,5 @@ linhasArquivo = fs.readFileSync(file).toString().split('\n').length -1
 //console.log(linhas)
 console.log(linhasArquivo)
 
+
+
